@@ -3,14 +3,17 @@
 ![CYCLIST](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/4c67e00d-1f38-46b6-bc6d-cba585a2147d)
 
 INTRODUCTION
+
 I have completed the Google Data Analytics courses on Coursera and would like to demonstrate the knowledge and skills I have learnt through this case study. In this case study, I will perform a real-world task as a junior data analyst and follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
 
 Background
+
 I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
 
 About the Company
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
 Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
@@ -21,6 +24,7 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 
 Phase 1: Ask
+
 Business Task
 To identify the difference between annual members and casual riders in using Cyclistic bikes and provide recommendations to convert casual riders into annual members.
 
@@ -29,6 +33,7 @@ Lily Moreno: The director of marketing and your manager.
 Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide the Cyclistic marketing strategy
 Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 PHASE 2: PREPARE
+
 Data Source Description
 The data used was supplied by Google and can be found in the link: 12 months of Cyclistic trip data. It is public data on the fictional company called Cyclistic provided by Motivate International Inc. under this license. Data for March 2021 to February 2022 has been selected for use.
 
@@ -36,17 +41,12 @@ Data Location: HTML link supplied above
 
 Data Organization: data was supplied as CSV files which were zipped according to their respective months.
 
-ROCCC of Data: The data was gathered firsthand by the company on all its users. The data is reliable, organized, comprehensive, current and frequently updated, and cited under an open license.
-
-License, Privacy, Security, and Accessibility: The company has granted a license over the data as provided above. Data-privacy issues prohibit me from using riders’ personally identifiable information, therefore credit card information was not included in this analysis.
-
-Data Integrity: The datasets were supplied in rows and uniquely labeled columns, and the entries in each field were consistent.
-
 Data’s Relevance to the Problem: Booking information on rides, membership types, duration of trips, etc. are part of the information supplied which will be used to show helpful insights into the rider’s pattern
 
 Problems with the Data: Blank or null values. As riders’ personally identifiable information is prohibited, no pass purchases will be able to connect to credit card numbers to determine if casual riders live in the Cyclistic service area or have purchased multiple single passes.
 
 Phase 3: Process
+
 I have used Microsoft Excel for data validation and cleaning.
 
 Some steps I have done in the validation and cleaning part are:-
@@ -106,6 +106,7 @@ STEP 11: Looked for extra spaces and misspelling in my cells.
 STEP 12: Used the built-in filter for all the columns and manually checked for unexpected values.
 
 Phase 4: Analyze
+
 Now that I have some clean data, I will be organizing and performing calculations on it to identify key trends and relationships.
 
 I have used ‘Pivot table’ for exploring the data. Following are some of the insights I tried to gather.
@@ -154,6 +155,7 @@ Trip Duration
 Click HERE to view the dashboard for this case study
 
 Phase 5: SHARE
+
 1) 60–70% of rentals for members occur during morning and evening, with an average rental duration of 35 minutes for casual riders and 17 minutes for member riders, indicating that member riders are likely office workers who use the bikes for commuting to work.
 
 2) Top 10 starting station for casual riders are around the city centers or tourist attractions with 65–75% of rentals happening during evening timings. Casual riders could constitute a mix of office workers, tourist and students.
@@ -163,6 +165,7 @@ Phase 5: SHARE
 4) Across the last 12 months, total number of hours rented by members showed that activity throughout weekdays and weekends tend to be relatively consistent. However, casual members rental activity favours a preference of weekends over weekdays.
 
 Phase 6: ACT
+
 Here are some insights that will be useful to the marketing campaign
 
 The data illustrates that casual riders (average: 35mins) go on longer trips than members (average: 17mins). The longest trips for casual riders are done with docked bikes.
