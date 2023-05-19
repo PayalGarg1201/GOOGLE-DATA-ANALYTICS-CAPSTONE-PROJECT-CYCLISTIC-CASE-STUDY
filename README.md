@@ -37,10 +37,12 @@ Key Stakeholders
 Lily Moreno: The director of marketing and your manager.
 Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide the Cyclistic marketing strategy
 Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
+
+
 PHASE 2: PREPARE
 
 Data Source Description
-The data used was supplied by Google and can be found in the link: 12 months of Cyclistic trip data. It is public data on the fictional company called Cyclistic provided by Motivate International Inc. under this license. Data for March 2021 to February 2022 has been selected for use.
+The data used was supplied by Google and can be found in the link: [12 months of Cyclistic trip data.](https://ride.divvybikes.com/data-license-agreement) It is public data on the fictional company called Cyclistic provided by Motivate International Inc. under this license. Data for March 2021 to February 2022 has been selected for use.
 
 Data Location: HTML link supplied above
 
