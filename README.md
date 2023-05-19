@@ -181,9 +181,8 @@ Trip Duration
 ![image](https://github.com/PayalGarg1201/GOOGLE-DATA-ANALYTICS-CAPSTONE-PROJECT-CYCLISTIC-CASE-STUDY/assets/133757186/e7071b7e-0677-4460-baad-40f34a8ce024)
 
 
-
-
-Click HERE to view the dashboard for this case study
+Click on below link to view the dashboard for this case study
+https://public.tableau.com/authoring/Payal_Google_cyclistic_project/CyclisticRidePatterns#1
 
 Phase 5: SHARE
 
